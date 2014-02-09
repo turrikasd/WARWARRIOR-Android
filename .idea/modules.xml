@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WARWARRIOR.iml" filepath="$PROJECT_DIR$/WARWARRIOR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warwarrior/warwarrior.iml" filepath="$PROJECT_DIR$/warwarrior/warwarrior.iml" />
+    </modules>
+  </component>
+</project>
+
